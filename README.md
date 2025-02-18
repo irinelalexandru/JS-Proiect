@@ -1,2 +1,3 @@
-# JS-Proiect
-Acesta este proiectul final de JS
+# JS-Project
+Final JS project
+The JS project from my web development course @ IT School
